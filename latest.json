@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "79ea6e7",
+  "versionCode": 6,
+  "versionName": "9cb65e4",
   "url": "https://github.com/R1tu5/AAA-releases/releases/download/latest/app-release.apk",
-  "sha256": "f89a4bf2becd7e84363ed209ba099068846195ebb47a47541176a3b886b9f5fb",
-  "notes": "V0.3 changed update frequency "
+  "sha256": "a061843a10b1a3bc54920ec3032d3413066cfce8e149b51ec8b7cfa9e703b0a0",
+  "notes": "V0.4 fixed update bug and added slightly broken time since last update option for later testing "
 }
