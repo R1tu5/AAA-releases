@@ -1,7 +1,7 @@
 {
-  "versionCode": 4,
-  "versionName": "87cf83d",
+  "versionCode": 5,
+  "versionName": "79ea6e7",
   "url": "https://github.com/R1tu5/AAA-releases/releases/download/latest/app-release.apk",
-  "sha256": "0e03662296774bcd17afc1cf5d45e2b18ae2ee0318ecebda9f5dfffe4341e70d",
-  "notes": "V0.2 fixed workflow file "
+  "sha256": "f89a4bf2becd7e84363ed209ba099068846195ebb47a47541176a3b886b9f5fb",
+  "notes": "V0.3 changed update frequency "
 }
