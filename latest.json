@@ -1,7 +1,7 @@
 {
-  "versionCode": 1,
-  "versionName": "v1",
-  "url": "https://github.com/R1tu5/AAA-releases/releases/download/v1/app-release.apk",
-  "sha256": "REPLACE_ON_FIRST_BUILD",
-  "notes": "Initial release"
+  "versionCode": 4,
+  "versionName": "87cf83d",
+  "url": "https://github.com/R1tu5/AAA-releases/releases/download/latest/app-release.apk",
+  "sha256": "0e03662296774bcd17afc1cf5d45e2b18ae2ee0318ecebda9f5dfffe4341e70d",
+  "notes": "V0.2 fixed workflow file "
 }
