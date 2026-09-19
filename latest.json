@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "9cb65e4",
+  "versionCode": 7,
+  "versionName": "2d78b3c",
   "url": "https://github.com/R1tu5/AAA-releases/releases/download/latest/app-release.apk",
-  "sha256": "a061843a10b1a3bc54920ec3032d3413066cfce8e149b51ec8b7cfa9e703b0a0",
-  "notes": "V0.4 fixed update bug and added slightly broken time since last update option for later testing "
+  "sha256": "cd896e59e9e7484422aa7ddabe5539708d5688c56481bbc7ab8ded737ae2b4c2",
+  "notes": "V0.5 fixed some ui issues and changed text update dialog to german "
 }
